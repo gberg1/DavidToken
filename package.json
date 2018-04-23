@@ -1,0 +1,22 @@
+{
+  "name": "simpletokenmanager",
+  "version": "1.0.0",
+  "description": "A smart contract responsible for managing a basic ERC20 token sale.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "truffle": "^4.1.7",
+    "zeppelin-solidity": "^1.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Goldberg",
+  "license": "ISC"
+}
